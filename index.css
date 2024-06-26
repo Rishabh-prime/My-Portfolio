@@ -602,11 +602,13 @@ body {
 }
 @media (max-width: 477px) {
   #social-media {
-    font-size: 30px;
+    font-size: 25px;
+  }
+  #social-media a {
+    margin-left: 20px;
   }
   #copyright{
-    font-size: 10px;
-    margin-left: 10px;
+    font-size: 15px;
   }
 }
 
