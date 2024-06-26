@@ -130,6 +130,9 @@ body {
   #bar{
     margin-left: 90px;
   }
+   .logo{
+    margin-left: -50px;
+  }
   
 }
 
