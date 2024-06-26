@@ -600,3 +600,21 @@ body {
   margin-top: 10px;
   font-weight: 700;
 }
+@media (max-width: 600px) {
+  #social-media {
+    font-size: 30px;
+  }
+  #copyright{
+    font-size: 10px;
+    margin-left: 10px;
+  }
+}
+
+
+
+
+
+
+
+
+
