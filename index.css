@@ -86,6 +86,9 @@ body {
 
 /* Navbar Responsiveness */
 @media (max-width: 799px) {
+  #Main-header {
+    gap:30px;
+  }
   #navbar {
     display: flex;
     flex-direction: column;
