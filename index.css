@@ -600,7 +600,7 @@ body {
   margin-top: 10px;
   font-weight: 700;
 }
-@media (max-width: 600px) {
+@media (max-width: 477px) {
   #social-media {
     font-size: 30px;
   }
