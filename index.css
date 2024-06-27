@@ -411,6 +411,11 @@ body {
      gap: 40px; /* Space between cards */
   }
 }
+@media (max-width: 420px) {
+  #ph1{
+    margin-top: 70px;
+  }
+}
 
 
 
@@ -566,6 +571,9 @@ body {
 @media (max-width: 600px) {
   .skill-container {
     width: 90%; /* Adjust to fit 1 item per row on small screens */
+  }
+   #sh1{
+    margin-top: 70px;
   }
 }
 /* Footer */
