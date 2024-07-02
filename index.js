@@ -182,6 +182,10 @@ otherProject.forEach(project => {
     name: "JavaScript",
     description: "High-level programming language",
   },
+ {
+    name: "jQuery",
+    description: "JavaScript library for DOM manipulation",
+  },
   {
     name: "Node.js",
     description: "JavaScript runtime built on Chrome's V8 JavaScript engine",
