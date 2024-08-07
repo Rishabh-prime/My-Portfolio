@@ -69,7 +69,15 @@ const projectsData = [
     "projectName": "Weather App",
     "projectDescription": "This is a weather app. It is built using HTML, CSS, JavaScript and using API.",
     "githubLink": "https://github.com/Rishabh-prime/Weather-APP"
+  },
+     {
+    "imgSrc": "./Images/Plinko.png",
+    "projectName": "Plinko Game",
+    "projectDescription": "This is a Game. It is built using HTML, CSS, JavaScript ",
+    "githubLink": "https://rishabh-prime.github.io/PlinkoGame/"
+
   }
+    
 ];
 
 const projectsSection = document.getElementById("projects-section");
@@ -140,6 +148,11 @@ const otherProject = [
     "ButtonName": "Keeper App (React)",
     "description": "A note-taking application built with React.",
     "githubLink": "https://github.com/Rishabh-prime/Keeper-APP"
+  },
+    {
+    "ButtonName": "Bubbel Game",
+    "description": "A Bubbel built using HTML, CSS, JavaScript.",
+    "githubLink": "https://github.com/Rishabh-prime/Bubbel-Game/tree/main"
   }
 ];
 
