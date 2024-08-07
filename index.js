@@ -151,7 +151,7 @@ const otherProject = [
   },
     {
     "ButtonName": "Bubbel Game",
-    "description": "A Bubbel built using HTML, CSS, JavaScript.",
+    "description": "A Bubbel Game built using HTML, CSS, JavaScript.",
     "githubLink": "https://github.com/Rishabh-prime/Bubbel-Game/tree/main"
   }
 ];
