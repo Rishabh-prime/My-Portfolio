@@ -352,10 +352,8 @@ body {
   flex-wrap: wrap; /* Updated for responsiveness */
   justify-content: center;
   align-items: center;
-   margin-bottom: 10%;
   gap: 20px; /* Space between cards */
-  
-  
+  margin-bottom: 7%;
 }
 
 .project-container {
@@ -365,6 +363,7 @@ body {
   margin-bottom: 5%;
   box-shadow: 0 5px 15px rgba(13, 13, 13, 0.5); /* Light gray shadow */
   transition: transform 0.3s ease-in-out; /* Smooth transition for zoom out effect */
+  cursor: pointer;
 }
 
 .project-image {
