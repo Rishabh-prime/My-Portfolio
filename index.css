@@ -360,7 +360,7 @@ body {
   width: 300px;
   border-radius: 40px;
   background-color: #f39c12; /* Orange */
-  margin-bottom: 5%;
+  margin-bottom: 4%;
   box-shadow: 0 5px 15px rgba(13, 13, 13, 0.5); /* Light gray shadow */
   transition: transform 0.3s ease-in-out; /* Smooth transition for zoom out effect */
   cursor: pointer;
