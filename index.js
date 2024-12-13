@@ -199,14 +199,14 @@ otherProject.forEach(project => {
     name: "jQuery",
     description: "JavaScript library for DOM manipulation",
   },
-  {
-    name: "Node.js",
-    description: "JavaScript runtime built on Chrome's V8 JavaScript engine",
-  },
-  {
-    name: "Express.js",
-    description: "Web application framework for Node.js",
-  },
+  // //{
+  //   name: "Node.js",
+  //   description: "JavaScript runtime built on Chrome's V8 JavaScript engine",
+  // },
+  // {
+  //   name: "Express.js",
+  //   description: "Web application framework for Node.js",
+  // },
   {
     name: "React.js",
     description: "JavaScript library for building user interfaces",
