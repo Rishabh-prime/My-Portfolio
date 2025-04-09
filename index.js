@@ -53,6 +53,12 @@ const projectsData = [
     "githubLink": "https://github.com/Rishabh-prime/Ecommerce-Website"
   },
   {
+    "imgSrc": "./Images/BlogImage.jpg",
+    "projectName": "Blog Website",
+    "projectDescription": "This is an blog website. It is built using HTML, CSS,JavaScript and React.js. ",
+    "githubLink": "https://github.com/Rishabh-prime/Blog-Website-"
+  },
+  {
     "imgSrc": "./Images/code editor.jpg",
     "projectName": "Code Editor",
     "projectDescription": "This is a code editor. It is built using HTML, CSS ,JavaScript and React.js.",
