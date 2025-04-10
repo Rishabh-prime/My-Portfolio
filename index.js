@@ -50,7 +50,7 @@ const projectsData = [
     "imgSrc": "./Images/ecommerce website.jpg",
     "projectName": "Ecommerce Website",
     "projectDescription": "This is an ecommerce website. It is built using HTML, CSS and JavaScript. ",
-    "githubLink": "https://github.com/Rishabh-prime/Ecommerce-Website"
+    "githubLink": "https://rishabh-prime.github.io/Ecommerce-Website/"
   },
   {
     "imgSrc": "./Images/BlogImage.jpg",
