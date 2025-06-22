@@ -50,7 +50,7 @@ const projectsData = [
     "imgSrc": "./Images/ecommerce website.jpg",
     "projectName": "Ecommerce Website",
     "projectDescription": "This is an ecommerce website. It is built using HTML, CSS and JavaScript. ",
-    "githubLink": "https://github.com/Rishabh-prime/Ecommerce-Website"
+    "githubLink": "https://rishabh-prime.github.io/Ecommerce-Website/"
   },
   {
     "imgSrc": "./Images/BlogImage.jpg",
@@ -62,7 +62,7 @@ const projectsData = [
     "imgSrc": "./Images/code editor.jpg",
     "projectName": "Code Editor",
     "projectDescription": "This is a code editor. It is built using HTML, CSS ,JavaScript and React.js.",
-    "githubLink": "https://github.com/your-username/code-editor"
+    "githubLink": "https://github.com/Rishabh-prime/Code-Editor"
   },
   {
     "imgSrc": "./Images/dog api.jpg",
