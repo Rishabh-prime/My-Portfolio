@@ -158,7 +158,8 @@ const otherProject = [
     "ButtonName": "Bubbel Game",
     "description": "A Bubbel built using HTML, CSS, JavaScript.",
     "githubLink": "https://github.com/Rishabh-prime/Bubbel-Game/tree/main"
-  }
+  }, 
+   
 ];
 
 const otherProjectTableBody = document.querySelector("#other-projects-table tbody");
@@ -219,6 +220,14 @@ otherProject.forEach(project => {
   {
     name: "Bootstrap",
     description: "Front-end framework for developing responsive projects",
+  },
+  {
+    name: "Tailwind",
+    description: "Front-end framework for developing responsive projects",
+  },
+     {
+    name: "Shopify",
+    description: "Shopify is a cloud-based e-commerce platform",
   }
 ];
 
